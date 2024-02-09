@@ -1,0 +1,28 @@
+{
+  "name": "video-1",
+  "version": "1.0.0",
+  "description": "Namaste react ",
+  "main": "App.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Routparesh/Namaste-React.git"
+  },
+  "author": "paresh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Routparesh/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/Routparesh/Namaste-React#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
