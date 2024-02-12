@@ -1,4 +1,4 @@
-6037
+6041
 81C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\commander\typings133519268090040779 1
 81C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\@msgpackr-extract133519757256995336 1
 81C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\has-flag\index.js133519268022012237 0
@@ -6,7 +6,7 @@
 127C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\lexer\Lexer.js133519268565721004 0
 92C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\type-fest\source\except.d.ts133519268144471452 0
 89C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\lines-and-columns\LICENSE133519268009306249 0
-63C:\Users\Admin\Desktop\React\Namaste React\video-1\package.json133519757261074453 0
+63C:\Users\Admin\Desktop\React\Namaste React\video-1\package.json133521482869985826 0
 92C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\@parcel\types\lib\index.d.ts133519268225107232 0
 110C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\caniuse-lite\data\features\user-select-none.js133519270494915316 0
 99C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\@parcel\core\test\fixtures\main-mjs133519269218523025 1
@@ -26,14 +26,14 @@
 85C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\js-yaml\lib\loader.js133519268206905907 0
 110C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\caniuse-lite\data\features\webkit-user-drag.js133519270578108650 0
 70C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\base-x133519268151453185 1
-55C:\Users\Admin\Desktop\React\Namaste React\video-1\dist133519757531172156 1
+55C:\Users\Admin\Desktop\React\Namaste React\video-1\dist133521490447609865 1
 100C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\utility-types\dist\mapped-types.d.ts133519268238561563 0
 86C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\escalade\sync\index.js133519268025323380 0
-61C:\Users\Admin\Desktop\React\Namaste React\video-1\.gitignore133519731436219935 0
+61C:\Users\Admin\Desktop\React\Namaste React\video-1\.gitignore133521496368955200 0
 110C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\@swc\helpers\src\_class_private_method_get.mjs133519269668927535 0
 94C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\cli-progress\lib\single-bar.js133519268225097263 0
 105C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\@babel\code-frame\node_modules\color-name133519268064334343 1
-57C:\Users\Admin\Desktop\React\Namaste React\video-1\App.js133519751988157801 0
+57C:\Users\Admin\Desktop\React\Namaste React\video-1\App.js133521490417295475 0
 70C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\@babel133519267966200814 1
 131C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\css-select\node_modules\entities\lib\generated\decode-data-xml.d.ts133519268640966150 0
 121C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\csso\node_modules\css-tree\cjs\syntax\node\MediaQuery.cjs133519268698971712 0
@@ -286,7 +286,7 @@
 102C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\css-tree\cjs\syntax\scope\selector.cjs133519268697635276 0
 112C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\caniuse-lite\data\features\orientation-sensor.js133519270138092171 0
 99C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\caniuse-lite\data\features\webgl.js133519270563672083 0
-77C:\Users\Admin\Desktop\React\Namaste React\video-1\dist\index.7826abd7.js.map133519757531082393 0
+77C:\Users\Admin\Desktop\React\Namaste React\video-1\dist\index.7826abd7.js.map133521490446386519 0
 82C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\svgo\lib\parser.js133519268209090061 0
 98C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\type-fest\ts41\delimiter-case.d.ts133519268120769323 0
 81C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\parcel\src\cli.js133519268347776997 0
@@ -953,6 +953,7 @@
 128C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\@swc\helpers\_\_class_static_private_field_spec_get\package.json133519269214274393 0
 127C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\common\List.js133519268574203457 0
 95C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\type-fest\source\utilities.d.ts133519268363355433 0
+74C:\Users\Admin\Desktop\React\Namaste React\video-1\dist\index.fed37dea.css133520384778434142 0
 94C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\type-fest\source\value-of.d.ts133519268366242762 0
 109C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\css-tree\lib\syntax\node\AttributeSelector.js133519268831000284 0
 110C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\csso\node_modules\css-tree\lib\lexer\search.js133519269281774283 0
@@ -1335,6 +1336,7 @@
 121C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\Doxyfile133519268162912869 0
 81C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\stable\index.d.ts133519268015649242 0
 86C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\msgpackr\dist\node.cjs133519268197909321 0
+73C:\Users\Admin\Desktop\React\Namaste React\video-1\dist\index.ea561db3.js133520384778703385 0
 93C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\domelementtype\lib\index.d.ts133519268107634457 0
 108C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\caniuse-lite\data\features\battery-status.js133519268458172169 0
 83C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\stable\package.json133519268009156614 0
@@ -2085,6 +2087,7 @@
 90C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\msgpackr\dist\node.cjs.map133519268476603179 0
 118C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\lmdb\node_modules\node-addon-api\tools\clang-format.js133519268409203134 0
 101C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\css-tree\lib\parser\parse-selector.js133519269153312284 0
+77C:\Users\Admin\Desktop\React\Namaste React\video-1\dist\index.ea561db3.js.map133520384779780525 0
 97C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\domelementtype\lib\index.d.ts.map133519268073848891 0
 82C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\is-json\.npmignore133519268016995659 0
 100C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\dom-serializer\node_modules\entities133519268145179958 1
@@ -4043,7 +4046,7 @@
 80C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\.bin\js-yaml.cmd133519270907726325 0
 108C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\@parcel\optimizer-htmlnano\node_modules\csso133519268439392389 1
 95C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\caniuse-lite\data\regions\PW.js133519270230814892 0
-66C:\Users\Admin\Desktop\React\Namaste React\video-1\dist\index.html133519757529905562 0
+66C:\Users\Admin\Desktop\React\Namaste React\video-1\dist\index.html133521490445987336 0
 95C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\caniuse-lite\data\regions\QA.js133519270230974454 0
 78C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\.bin\json5.cmd133519270908374616 0
 95C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\caniuse-lite\data\regions\RE.js133519270232011683 0
@@ -6033,6 +6036,7 @@
 91C:\Users\Admin\Desktop\React\Namaste React\video-1\node_modules\.bin\update-browserslist-db133519270908125270 0
 73C:\Users\Admin\Desktop\React\Namaste React\video-1\dist\index.6bd02f5a.js133519738121237570 0
 77C:\Users\Admin\Desktop\React\Namaste React\video-1\dist\index.6bd02f5a.js.map133519738122673716 0
-73C:\Users\Admin\Desktop\React\Namaste React\video-1\dist\index.7826abd7.js133519757529915548 0
-74C:\Users\Admin\Desktop\React\Namaste React\video-1\dist\index.9e4c6fd2.css133519757462703495 0
-78C:\Users\Admin\Desktop\React\Namaste React\video-1\dist\index.9e4c6fd2.css.map133519757463132373 0
+73C:\Users\Admin\Desktop\React\Namaste React\video-1\dist\index.7826abd7.js133521490446002517 0
+74C:\Users\Admin\Desktop\React\Namaste React\video-1\dist\index.9e4c6fd2.css133521490441841301 0
+78C:\Users\Admin\Desktop\React\Namaste React\video-1\dist\index.9e4c6fd2.css.map133521490442445652 0
+78C:\Users\Admin\Desktop\React\Namaste React\video-1\dist\index.fed37dea.css.map133520384779770550 0

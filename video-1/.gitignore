@@ -1,3 +1,22 @@
 /node_modules
+# Ignore the dist folder
 /dist
-.parcel-cache
+/.parcel-cache
+# Dependency directories
+node_modules/
+
+# Production build directory
+/dist
+
+# Parcel cache
+.cache
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+
+# OS generated files
+.DS_Store
+Thumbs.db
