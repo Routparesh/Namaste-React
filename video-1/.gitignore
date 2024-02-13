@@ -8,7 +8,7 @@ node_modules/
 # Production build directory
 /dist
 
-# Parcel cache
+# .parcel-cache
 .cache
 
 # Editor directories and files

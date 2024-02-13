@@ -2960,49 +2960,106 @@ var _reactDomDefault = parcelHelpers.interopDefault(_reactDom);
 // [React.createElement('h1',{},'My name is Bapu'),
 // React.createElement('h2',{},'My name is paresh'),React.createElement('h1',{},'My name is chintu'),
 // *React.createElement('h2',{},'My name is amar')]))
+// const root = ReactDOM.createRoot(document.getElementById('root'))
+// // root.render(parent)
+// // ?React Element
+// const title = (
+//     <h2>
+//         This is namaste react✍
+//     </h2>
+// )
+// *react component
+// function Header(){
+//     return(
+//         <>
+//             <ul>
+//                 <li>Home</li>
+//                 <li>About</li>
+//                 <li>Contact Us</li>
+//                 {title}
+//             </ul>
+//         </>
+//     )
+// }
+// root.render(<Header/>);
+const elem = /*#__PURE__*/ (0, _reactDefault.default).createElement("div", {
+    class: "title"
+}, [
+    /*#__PURE__*/ (0, _reactDefault.default).createElement("h1", {}, "Paresh"),
+    /*#__PURE__*/ (0, _reactDefault.default).createElement("h2", {}, "Bapu"),
+    /*#__PURE__*/ (0, _reactDefault.default).createElement("h3", {}, "Amar")
+]);
 const root = (0, _reactDomDefault.default).createRoot(document.getElementById("root"));
-// root.render(parent)
-function Header() {
-    return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _jsxDevRuntime.Fragment), {
-        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("ul", {
-            children: [
-                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
-                    children: "Home"
-                }, void 0, false, {
-                    fileName: "App.js",
-                    lineNumber: 23,
-                    columnNumber: 17
-                }, this),
-                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
-                    children: "About"
-                }, void 0, false, {
-                    fileName: "App.js",
-                    lineNumber: 24,
-                    columnNumber: 17
-                }, this),
-                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
-                    children: "Contact Us"
-                }, void 0, false, {
-                    fileName: "App.js",
-                    lineNumber: 25,
-                    columnNumber: 17
-                }, this)
-            ]
-        }, void 0, true, {
+const heading = /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+    class: "title",
+    children: [
+        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
+            children: "My name is Paresh"
+        }, void 0, false, {
             fileName: "App.js",
-            lineNumber: 22,
-            columnNumber: 13
-        }, this)
-    }, void 0, false);
-}
-_c = Header;
-root.render(/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Header, {}, void 0, false, {
+            lineNumber: 48,
+            columnNumber: 9
+        }, undefined),
+        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h2", {
+            children: "My name is Suresh"
+        }, void 0, false, {
+            fileName: "App.js",
+            lineNumber: 49,
+            columnNumber: 9
+        }, undefined),
+        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h2", {
+            children: "My name is Mahesh"
+        }, void 0, false, {
+            fileName: "App.js",
+            lineNumber: 50,
+            columnNumber: 9
+        }, undefined)
+    ]
+}, void 0, true, {
     fileName: "App.js",
-    lineNumber: 31,
+    lineNumber: 47,
+    columnNumber: 5
+}, undefined);
+const HeadingComponent = ()=>{
+    return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+        children: [
+            heading,
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
+                children: "My name is Amar"
+            }, void 0, false, {
+                fileName: "App.js",
+                lineNumber: 59,
+                columnNumber: 13
+            }, undefined),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h2", {
+                children: "My name is Chintu"
+            }, void 0, false, {
+                fileName: "App.js",
+                lineNumber: 60,
+                columnNumber: 13
+            }, undefined),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h3", {
+                children: "My name is Gelhi"
+            }, void 0, false, {
+                fileName: "App.js",
+                lineNumber: 61,
+                columnNumber: 13
+            }, undefined)
+        ]
+    }, void 0, true, {
+        fileName: "App.js",
+        lineNumber: 57,
+        columnNumber: 9
+    }, undefined);
+};
+_c = HeadingComponent;
+root.render(/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(HeadingComponent, {}, void 0, false, {
+    fileName: "App.js",
+    lineNumber: 66,
     columnNumber: 13
 }, undefined));
 var _c;
-$RefreshReg$(_c, "Header");
+$RefreshReg$(_c, "HeadingComponent");
 
   $parcel$ReactRefreshHelpers$c1db.postlude(module);
 } finally {
